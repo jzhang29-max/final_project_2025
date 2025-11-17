@@ -88,7 +88,6 @@ class HubMotorController(Node):
             left_rpm_int = int(self.left_motor_rpm * 10)  # Scale for precision
             right_rpm_int = int(self.right_motor_rpm * 10)
             
-            # Create command packets for ONLY the 2 front motors
             commands = []
             motor_ids = [0x01, 0x02]  # Front-Left, Front-Right only
             rpms = [left_rpm_int, right_rpm_int]
