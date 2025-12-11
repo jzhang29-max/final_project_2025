@@ -118,7 +118,7 @@ pupper-car-project/
 
 ## 👥 Team
 
-*Cole Mcbeth, Jiaming Zhang, Ben Wengreen*
+*Cole McBeth, Jiaming Zhang, Ben Wengreen*
 
 ## 📄 License
 
