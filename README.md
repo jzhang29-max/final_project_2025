@@ -34,8 +34,8 @@ This project implements a versatile locomotion system for the Pupper v3 robot, e
 1. Clone this repository:
 ```bash
 cd /home/pi/
-git clone <your-repo-url>
-cd final_project
+git clone <https://github.com/jzhang29-max/final_project_2025>
+cd final_project_2025
 ```
 
 2. Deploy configuration files and build the workspace:
