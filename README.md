@@ -85,7 +85,7 @@ pupper-car-project/
 ├── launch.py                     # ROS2 launch file
 ├── estop_controller.cpp          # Emergency stop controller
 ├── parkour_policy.json           # Parkour mode neural network policy
-├── wc.py                         # Control wheel locomotion script
+├── wc.py                         # Wheel locomotion serial control script
 ├── rebuild_neural_controller.py  # Deployment and build script
 ├── download_latest_policy.py     # Download policies from wandb
 ├── deploy.py                     # Interactive launch script
